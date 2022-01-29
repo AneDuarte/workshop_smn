@@ -1,0 +1,39 @@
+Pauta do workshop de GIT
+
+| Introdução - Caio
+- Apresentar o workshop
+- O que é GIT
+- Importância
+
+| GitHub - Lima
+- O que é GitHub
+- Como usar
+- Apresentação de repositórios
+
+| Repositorios - Caio
+- O que é um repositório
+- Diferença entre local e remoto
+- Repositório compartilhado
+
+| Comandos diários - Lima
+- Git status
+- Git add
+- Git commit
+- Git pull
+- Git push
+- Git clone
+
+| Comandos situacionais- Caio
+- Git init
+- Git checkout
+- Git merge
+- Git branch
+- Git log
+- Apresentar lista de comandos
+
+| git flow - Lima
+- O que é Git Flow
+- Git Flow da empresa
+- Exemplos
+
+| Perguntas a fazer:
